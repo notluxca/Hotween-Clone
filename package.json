@@ -1,0 +1,15 @@
+{
+    "name": "com.gist-importer",
+    "displayName": "Gist Importer",
+    "version": "1.0.0",
+    "unity": "2019.4",
+    "description": "Hotween clone project for gist import",
+    "type": "module",
+    "dependencies": {
+        "com.unity.textmeshpro": "3.2.0"
+    },
+    "author": {
+        "name": "Lucas Fernandes",
+        "email": "lucasrochafernandes20@gmail.com"
+    }
+}

@@ -5,6 +5,7 @@
     "unity": "2019.4",
     "description": "Hotween clone project for gist import",
     "type": "module",
+    "dependencies": {},
     "author": {
         "name": "Lucas Fernandes",
         "email": "lucasrochafernandes20@gmail.com"
